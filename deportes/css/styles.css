@@ -169,7 +169,7 @@ body {
 
   .slider-track {
     display: flex;
-    width: calc(250px * 8); /* número de imágenes * tamaño fijo */
+    width: calc(250px * 8);
     animation: scrollCarousel 30s linear infinite;
   }  
   
